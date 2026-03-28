@@ -1,0 +1,7 @@
+[project]
+name = "my-dataset"
+version = "0.1.0"
+description = "Anvil dataset"
+dependencies = [
+    "pytest"
+]
